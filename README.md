@@ -11,7 +11,7 @@
     
   **Aplicações e Dados**  
     
-![C#](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)   
+![C#](https://img.shields.io/badge/-C%23%20-333333?style=flat&logo=C%2B%2B&logoColor=00599C)   
      
   **DevOps**  
     
@@ -30,10 +30,8 @@
 
   <h3> :earth_americas: &nbsp;Onde me encontrar: </h3>   
     
-  [![Linkedin:John Vitor](https://img.shields.io/badge/-johnvitoralves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](LINK-DO-SEU-LINKEDIN)  
-
+  [![Linkedin:John Vitor](https://img.shields.io/badge/-johnvitoralves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/johnvitoralves/)  
 [![GmailBadge](https://img.shields.io/badge/-johnvitorextra@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johnvitorextra@gmail.com)](mailto:johnvitorextra@gmail.com)  
-
   [![GitHub JohnVitor-Dev]( https://img.shields.io/github/followers/JohnVitor-Dev?label=follow&style=social)](JohnVitor-Dev)
 
 
