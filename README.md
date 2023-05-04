@@ -15,7 +15,7 @@
      
   **DevOps**  
     
-    ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  
     
   **Ferramentas de Desenvolvimento**  
     
