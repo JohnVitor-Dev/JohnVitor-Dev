@@ -19,7 +19,7 @@
     
   **Ferramentas de Desenvolvimento**  
     
-    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)]  
     
   
 [![card](https://github-readme-stats.vercel.app/api?username=JohnVitor-Dev&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
