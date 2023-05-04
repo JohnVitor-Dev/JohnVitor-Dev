@@ -5,8 +5,7 @@
     
   - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.  
   - 🎓 &nbsp; Estudando **Ciência da Computação** no <a href="link da sua faculdade">IFMA - Campus Imperatriz</a>.  
-  - 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>  
-  - 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.  
+  - 🌱 &nbsp; Aprendendo mais sobre **C# | .NET | SQL**.  
     
   <h3> :rocket: &nbsp;Minhas Skills </h3>  
     
