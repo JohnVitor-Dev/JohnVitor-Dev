@@ -22,9 +22,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  
     
   
-[![card](https://github.com/PencilNavigator/readme-stats-URL/api?username=JohnVitor-Dev&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://bellomia-readme-stats.vercel.app/api?username=JohnVitor-Dev&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![iuricode](https://github.com/PencilNavigator/readme-stats-URL/api/top-langs/?username=JohnVitor-Dev&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![iuricode](https://bellomia-readme-stats.vercel.app/api/top-langs/?username=JohnVitor-Dev&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
     
 
 
