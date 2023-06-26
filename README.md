@@ -11,17 +11,17 @@
     
   **Aplicações e Dados**  
     
-![C#](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=csharp&logoColor=239120)
+![C#](https://img.shields.io/badge/-C%20Sharp-333333?style=plastic&logo=csharp&logoColor=239120)
 
      
   **DevOps**  
     
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)  
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=plastic&logo=github)  
     
   **Ferramentas de Desenvolvimento**  
     
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91) 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=plastic&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=plastic&logo=visual-studio&logoColor=5C2D91) 
     
   
 [![card](https://bellomia-readme-stats.vercel.app/api?username=JohnVitor-Dev&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
