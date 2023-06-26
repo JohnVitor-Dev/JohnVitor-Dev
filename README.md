@@ -11,7 +11,8 @@
     
   **Aplicações e Dados**  
     
-![C#](https://img.shields.io/badge/-C%23%20-333333?style=flat&logo=C%2B%2B&logoColor=00599C)   
+![C#](https://img.shields.io/badge/-C%20Sharp-333333?style=flat&logo=csharp&logoColor=239120)
+
      
   **DevOps**  
     
@@ -19,7 +20,8 @@
     
   **Ferramentas de Desenvolvimento**  
     
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)  
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91) 
     
   
 [![card](https://bellomia-readme-stats.vercel.app/api?username=JohnVitor-Dev&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
