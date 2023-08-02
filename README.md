@@ -3,7 +3,7 @@
     
   <h3> :man: &nbsp;Sobre mim </h3>  
     
-  - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.  
+  - 🔭 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.  
   - 🎓 &nbsp; Estudando **Ciência da Computação** no <a href="link da sua faculdade">IFMA - Campus Imperatriz</a>.  
   - 🌱 &nbsp; Aprendendo mais sobre **C# | .NET | SQL**.  
     
@@ -11,17 +11,18 @@
     
   **Aplicações e Dados**  
     
-![C#](https://img.shields.io/badge/-C%20Sharp-333333?style=plastic&logo=csharp&logoColor=239120)
+![C#](https://img.shields.io/badge/C%20Sharp-68217A?style=for-the-badge&logo=csharp)
 
-     
+
+
   **DevOps**  
     
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=plastic&logo=github)  
+![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
     
   **Ferramentas de Desenvolvimento**  
     
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=plastic&logo=visual-studio-code&logoColor=007ACC)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=plastic&logo=visual-studio&logoColor=5C2D91) 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=for-the-badge&logo=visual-studio&logoColor=5C2D91) 
     
   
 [![card](https://bellomia-readme-stats.vercel.app/api?username=JohnVitor-Dev&theme=highcontrast&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
