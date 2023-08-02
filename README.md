@@ -1,9 +1,11 @@
-
+<h1 align='center'>
+  Hi there 👋 I'm John Vitor 👨‍💻
+</h1>
 
   <h3> :man: &nbsp;Sobre mim </h3>  
     
   - 🔭 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.  
-  - 🎓 &nbsp; Estudando **Ciência da Computação** no <a href="link da sua faculdade">IFMA - Campus Imperatriz</a>.  
+  - 🎓 &nbsp; Estudando **Ciência da Computação** no <a href="https://imperatriz.ifma.edu.br">IFMA - Campus Imperatriz</a>.  
   - 🌱 &nbsp; Aprendendo mais sobre **C# | .NET | SQL**.  
 
 ##
@@ -11,17 +13,19 @@
     
   **Aplicações e Dados**  
     
-![C#](https://img.shields.io/badge/C%20Sharp-68217A?style=for-the-badge&logo=csharp)
+![Csharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
   **DevOps**  
     
-![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) 
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
     
   **Ferramentas de Desenvolvimento**  
-    
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white) 
 
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+ 
 ##
 <div>
 <a href="https://github.com/seu-usuário-aqui">
@@ -38,6 +42,7 @@
 
 ![](https://komarev.com/ghpvc/?username=JohnVitor-DEV&color=006bed) 
 ![](https://hit.yhype.me/github/profile?user_id=77373022)
+![Snake animation](https://github.com/JohnVitor-Dev/JohnVitor-Dev/blob/output/github-contribution-grid-snake.svg)
 
 
 
