@@ -27,8 +27,8 @@
  
 ## <div>
 <a href="https://github.com/JohnVitor-Dev">
-<img loading="lazy" height="180em" src="https://bellomia-readme-stats.vercel.app/api?username=JohnVitor-Dev&theme=highcontrast&show_icons=true"/>
-<img loading="lazy" height="180em" src="https://bellomia-readme-stats.vercel.app/api/top-langs/?username=JohnVitor-Dev&hide=html&layout=compact&theme=highcontrast"/>
+<img loading="lazy" height="150em" src="https://bellomia-readme-stats.vercel.app/api?username=JohnVitor-Dev&theme=highcontrast&show_icons=true"/>
+<img loading="lazy" height="150em" src="https://bellomia-readme-stats.vercel.app/api/top-langs/?username=JohnVitor-Dev&hide=html&layout=compact&theme=highcontrast"/>
 <div>
 
 ## <h3> :earth_americas: &nbsp;Onde me encontrar: </h3>   
