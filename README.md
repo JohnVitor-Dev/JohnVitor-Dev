@@ -5,8 +5,8 @@
 <h3> :man: &nbsp;Sobre mim </h3>  
     
 - 🔭 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Ciência da Computação** no <a href="https://imperatriz.ifma.edu.br">IFMA - Campus Imperatriz</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **C# | .NET | SQL**.
+- 🎓 &nbsp; Cursando **Ciência da Computação** no <a href="https://imperatriz.ifma.edu.br">IFMA - Campus Imperatriz</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **C# | .NET | AspNet | SQL**.
 
 ## <h3> :rocket: &nbsp;Minhas habilidades </h3>  
     
