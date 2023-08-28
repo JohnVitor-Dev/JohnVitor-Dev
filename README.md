@@ -6,7 +6,7 @@
     
 - 🔭 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Cursando **Ciência da Computação** no <a href="https://imperatriz.ifma.edu.br">IFMA - Campus Imperatriz</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **C# | .NET | AspNet | SQL**.
+- 🌱 &nbsp; Aprendendo mais sobre **C# | .NET | ASP.NET | SQL**.
 
 ## <h3> :rocket: &nbsp;Minhas habilidades </h3>  
     
