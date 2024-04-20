@@ -34,8 +34,7 @@
 ## <h3> :earth_americas: &nbsp;Onde me encontrar: </h3>   
     
 [![Linkedin:John Vitor](https://img.shields.io/badge/-johnvitoralves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/johnvitoralves/)  
-[![GmailBadge](https://img.shields.io/badge/-johnvitorextra@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johnvitorextra@gmail.com)](mailto:johnvitorextra@gmail.com)  
+[![GmailBadge](https://img.shields.io/badge/-johnvitorextra@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:johnvitorextra@gmail.com)](mailto:primaryjotavee@gmail.com)  
 [![GitHub JohnVitor-Dev]( https://img.shields.io/github/followers/JohnVitor-Dev?label=follow&style=social)](JohnVitor-Dev)
 
 ![](https://komarev.com/ghpvc/?username=JohnVitor-DEV&color=68217A) 
-![](https://hit.yhype.me/github/profile?user_id=77373022)
