@@ -1,29 +1,35 @@
 <h1 align='center'>
-  Olá 👋 Eu sou o John Vitor 👨‍💻
+  👋 Olá, eu sou John Vitor 👨‍💻
 </h1>
 
 <h3> :man: &nbsp;Sobre mim </h3>  
     
-- 🔭 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🔭 &nbsp; Densenvolvedor BackEnd, mas atualmente aprimorando habilidades em FrontEnd.
 - 🎓 &nbsp; Cursando **Ciência da Computação** no <a href="https://imperatriz.ifma.edu.br">IFMA - Campus Imperatriz</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **C# | .NET | ASP.NET | SQL**.
+- 🌱 &nbsp; Aprendendo mais sobre **.NET | SQL | HTML | CSS | JAVASCRIPT**.
+- 📜 &nbsp; Portfólio: [John Costa](https://johnvitor-dev.github.io/BackEnd-Portifolio/)
 
 ## <h3> :rocket: &nbsp;Minhas habilidades </h3>  
     
-**Aplicações e Dados**  
+**Desenvolvimento Backend**  
     
 ![Csharp](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Dotnet](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![SqlServer](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+**Front-End e Ferramentas**  
+    
+![Html](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 **DevOps**  
     
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
-    
-**Ferramentas de Desenvolvimento**  
-
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
  
 ## <div>
 <a href="https://github.com/JohnVitor-Dev">
