@@ -6,7 +6,7 @@
     
 - 🔭 &nbsp; Backend developer, but currently improving my frontend skills.
 - 🎓 &nbsp; Studying **Computer Science** at <a href="https://imperatriz.ifma.edu.br">IFMA - Campus Imperatriz</a>.
-- 📜 &nbsp; Portfolio: [John Costa](https://johncosta-backendportfolio.vercel.app/)
+- 📜 &nbsp; Portfolio: [John Costa](https://johnvitor-dev.github.io/Portfolio/)
 
 ##
 
