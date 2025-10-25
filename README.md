@@ -1,6 +1,6 @@
-<h1 align='center'>
-  👋 Hello, I'm John Vitor 👨‍💻
-</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JohnVitor-Dev/JohnVitor-Dev/main/painel.png" width="400" />
+</p>
 
 <h3> :man: &nbsp;About Me </h3>  
     
