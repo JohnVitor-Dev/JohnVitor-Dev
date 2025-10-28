@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JohnVitor-Dev/JohnVitor-Dev/main/painel.png" width="400" />
+  <img src="https://raw.githubusercontent.com/JohnVitor-Dev/JohnVitor-Dev/refs/heads/main/Painel.svg" width="400" />
 </p>
 
 <h3> :man: &nbsp;About Me </h3>  
