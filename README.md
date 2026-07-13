@@ -15,5 +15,13 @@ I'm a **Computer Science student** passionate about backend development with **C
  
 ## 🔥 Github Stats
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=JohnVitor-Dev&theme=tokyonight&hide_border=true"/> </div>
+<div align="center"> 
+
+</div>
+
+<picture>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=JohnVitor-Dev&theme=tokyonight&hide_border=true"/>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/JohnVitor-Dev?theme=dark&config=config.json">
+ <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/JohnVitor-Dev?config=config.json">
+</picture> 
 
