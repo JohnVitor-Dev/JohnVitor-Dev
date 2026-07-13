@@ -31,12 +31,6 @@
       "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
     },
     {
-      "name": ".NET",
-      "extensions": ["csproj", "sln", "props", "targets"],
-      "color": "#512BD4",
-      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
-    },
-    {
       "name": "SQL",
       "extensions": ["sql"],
       "color": "#336791",
@@ -48,41 +42,5 @@
       "color": "#f7df1e",
       "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
     },
-    {
-      "name": "TypeScript",
-      "extensions": ["ts", "tsx"],
-      "color": "#3178c6",
-      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-    },
-    {
-      "name": "JSON",
-      "extensions": ["json"],
-      "color": "#fbc02d",
-      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"
-    },
-    {
-      "name": "XML",
-      "extensions": ["xml"],
-      "color": "#ff7043",
-      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg"
-    },
-    {
-      "name": "Markdown",
-      "extensions": ["md"],
-      "color": "#9aa5ce",
-      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"
-    },
-    {
-      "name": "PowerShell",
-      "extensions": ["ps1", "psm1"],
-      "color": "#5391fe",
-      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg"
-    },
-    {
-      "name": "YAML",
-      "extensions": ["yml", "yaml"],
-      "color": "#cb171e",
-      "image": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg"
-    }
   ]
 }
