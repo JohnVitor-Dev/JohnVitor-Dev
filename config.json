@@ -1,0 +1,26 @@
+{
+  "title": "💻 Tech Stack",
+  "custom_image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg",
+
+  "colors_light_theme": {
+    "title_color": "#3b4261",
+    "text_color": "#565f89",
+    "percentage_color": "#414868",
+    "background_color": "#ffffff",
+    "border_color": "#ffffff"
+  },
+
+  "colors_dark_theme": {
+    "title_color": "#7aa2f7",
+    "text_color": "#c0caf5",
+    "percentage_color": "#a9b1d6",
+    "background_color": "#1a1b27",
+    "border_color": "#1a1b27"
+  },
+
+  "disable_languages": [
+    "HTML",
+    "CSS",
+    "C"
+  ]
+}
