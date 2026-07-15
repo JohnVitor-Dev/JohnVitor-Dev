@@ -16,7 +16,5 @@ I'm a **Computer Science student** passionate about backend development with **C
 ## 🔥 Github Stats
 
 <div align="center"> 
- <img src="https://github-readme-streak-stats.herokuapp.com?user=JohnVitor-Dev&theme=tokyonight&hide_border=true&v=2"/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JohnVItor-DEV&theme=blue-navy&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&dates=D2E1EB&hide_longest_streak=true" alt="GitHub Streak" /></a>
 </div>
-
-
